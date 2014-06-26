@@ -1,0 +1,51 @@
+.profileUpdate {
+	/*text-align: right;*/
+	display: none;
+	/*visibility: hidden;*/
+
+}
+
+.updateBox {
+	height: 150px;
+}
+
+.profileStatic {
+	margin-top: 50px;
+}
+
+
+.inputTitle {
+	display: inline-block;
+	width: 110px;
+	text-align: right;
+	margin-right: 8px;
+}
+
+.staticTitle {
+	/*margin-left: 20px;*/
+	display: inline-block;
+	text-align: right;
+	width: 110px;
+	/*width: 110px;*/
+	/*margin-right: 20px;*/
+	/*padding-right: 8px;*/
+	margin-right: 8px;
+
+}
+
+button {
+	margin-top: 20px;
+	margin-left: 120px;
+}
+
+div {
+	margin-top: 20px;
+}
+
+
+.inputResult {
+	border: 3px; solid lightgray;
+	/*display: inline-block;*/
+	/*margin-left: 8px;*/
+}
+
